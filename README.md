@@ -2,7 +2,7 @@
   
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
   
- Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vishal
+ Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm SudheeR
     </p>
     I Am a Passionate Self Learner from INDIA 🟠⚪🟢
   
@@ -15,10 +15,10 @@
 
 
 
-  <a href="https://github.com/VishalCodez/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=VishalCodez">
+  <a href="https://github.com/SudheeR3737/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SudheeR3737">
 </a>
-<a href="https://github.com/VishalCodez?tab=followers"><img src="https://img.shields.io/github/followers/VishalCodez?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SudheeR3737?tab=followers"><img src="https://img.shields.io/github/followers/SudheeR3737?label=Followers&style=social" alt="GitHub Badge"></a>
 
   </h3>
 
