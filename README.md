@@ -26,7 +26,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m Currently Working on **Music bots](https://betacssjs.chesscomfiles.com/bundles/web/images/social/gif-meta.65401f66.gif)**
+- 🔭 I’m Currently Working on [**Music bots](https://betacssjs.chesscomfiles.com/bundles/web/images/social/gif-meta.65401f66.gif)**
 
 - 🌱 I’m Currently Learning **Programing Languages**
 
