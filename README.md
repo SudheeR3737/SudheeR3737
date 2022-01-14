@@ -26,11 +26,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m Currently Working on **[Making Games](https://betacssjs.chesscomfiles.com/bundles/web/images/social/gif-meta.65401f66.gif)**
+- 🔭 I’m Currently Working on **Music bots](https://betacssjs.chesscomfiles.com/bundles/web/images/social/gif-meta.65401f66.gif)**
 
 - 🌱 I’m Currently Learning **Programing Languages**
 
-- 📫 How To Reach Me **vishalcodez@gmail.com**
+- 📫 How To Reach Me **Sudheerbuvvana6303@gmail.com**
 
 
 
@@ -63,9 +63,9 @@
 
 -------------------
   
-![Vishal Codez Github Stats](https://github-readme-stats.vercel.app/api?username=VishalCodez&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Vishal Codez Github Stats](https://github-readme-stats.vercel.app/api?username=SudheeR3737&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Vishal Codez Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishalCodez&theme=radical&include_all_commits=true&count_private=true)
+![Vishal Codez Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=SudheeR3737&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
 
